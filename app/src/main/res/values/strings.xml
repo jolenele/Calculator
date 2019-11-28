@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">assignment1_formula</string>
+    <string name="formula">60x + 29y * 88z =</string>
+    <string name="result">0</string>
+    <string name="xVar">x</string>
+    <string name="zVar">z</string>
+    <string name="yVar">y</string>
+    <string name="y">y</string>
+    <string name="z">z</string>
+    <string name="x">x</string>
+    <string name="submit">Submit</string>
+    <string name="asteriskred"><font color='#cc0029'>*</font></string>
+</resources>
